@@ -1,6 +1,8 @@
 # Sudoku-Mastermind
 A Python based sudoku puzzle generator where the user can either choose to solve a randomly generated sudoku board or watch a CPU solve any sudoku board in mere seconds, using a powerful backtracking (recursive) algorithm. 
 
+NOTE: Here, all empty zeroes in the board are represented with the number "0". The reason for this is because usage of different data types can lead to lots of exceptions.
+
 Here are a few pictures showing the gameplay:
 
 Sudoku board where the user plays on his/her own:
